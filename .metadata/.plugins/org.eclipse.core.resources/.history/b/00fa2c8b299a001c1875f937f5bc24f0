@@ -1,0 +1,10 @@
+package ran;
+
+public class RangeQue {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
